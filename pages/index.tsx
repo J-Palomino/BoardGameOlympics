@@ -13,6 +13,9 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>Boardgame 🎲 Olympics</h1>
+        <form>
+          <p>July 16th - 18th</p>
+        </form>
       </main>
     </div>
   );
